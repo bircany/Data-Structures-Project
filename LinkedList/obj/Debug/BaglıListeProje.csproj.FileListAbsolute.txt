@@ -1,0 +1,9 @@
+C:\Users\birca\source\repos\BaglıListeProje\bin\Debug\BaglıListeProje.exe
+C:\Users\birca\source\repos\BaglıListeProje\bin\Debug\BaglıListeProje.pdb
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.Form1.resources
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.Properties.Resources.resources
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.csproj.GenerateResource.cache
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.exe
+C:\Users\birca\source\repos\BaglıListeProje\obj\Debug\BaglıListeProje.pdb
